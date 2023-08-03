@@ -13,7 +13,7 @@ import os
 warnings.filterwarnings('ignore')
 
 # Assuming you have already loaded the CSV data into the 'data' DataFrame
-data = pd.read_csv('/home/ubuntu/uddashya/NIFTY50.csv')
+data = pd.read_csv('NIFTY50.csv')
 
 # Convert the 'datetime' column to datetime format
 data['datetime'] = pd.to_datetime(data['datetime'])
