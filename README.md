@@ -28,7 +28,7 @@ source venv/bin/activate
 Then, run the application using:
 
 ```bash
-streamlit run app.py
+streamlit run Market_regime_final.py
 ```
 
 
