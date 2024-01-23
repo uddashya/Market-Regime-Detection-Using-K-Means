@@ -23,6 +23,14 @@ Before running the application, make sure to activate the virtual environment:
 
 ```bash
 source venv/bin/activate
+```
+
+Then, run the application using:
+
+```bash
+streamlit run app.py
+```
+
 
 
 
